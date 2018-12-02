@@ -1,5 +1,6 @@
 # datalogger-lcd-keypad
 arduino+data logger shield+ lcd keypad from d1 robot    
+Reference: adafruit data logger https://learn.adafruit.com/adafruit-data-logger-shield/overview
 
 ![arduino datalogger shield](https://user-images.githubusercontent.com/44813850/49340500-3d01cc00-f673-11e8-98a6-c270cddbd6c9.jpeg)
 ![arduino datalogger lcd keypad](https://user-images.githubusercontent.com/44813850/49340555-d630e280-f673-11e8-9543-940c1b1584c6.jpeg)
